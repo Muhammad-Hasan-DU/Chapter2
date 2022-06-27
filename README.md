@@ -1,2 +1,3 @@
 # Chapter2
 Preliminary Analysis and Non-linear Yield Modelling
+The Environmental Policy Integrated Climate(EPIC) model, which is a simulator of crop yield corresponding to inputs nitrogen and phosphorous, emissions of various pollutants, and also the effects of land and soil management systems Williams et al. (1984); Jones et al. (1991). The data for our analysis comprises a large-scale simulation from the EPIC simulator over a fully-factorial design. This generated a large (≫ 20 Tb) amount of time series output data, which was post- processed for the purposes of this study to extract annual crop yields for each design point over the sixty year period of simulation.
